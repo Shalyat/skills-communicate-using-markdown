@@ -1,3 +1,8 @@
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
 # GIT
 ## PRAK
-! [Image of cat](https://sanlesnoe.ru/wp-content/uploads/2022/03/Z-2.png)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png) 
